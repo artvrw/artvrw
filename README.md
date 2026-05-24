@@ -9,4 +9,4 @@ About me:<br />
 🛠️ My favorite tools are PyCharm, Notion, and Jupyter Notebook.<br />
 🤖 I'm keen on Machine Learning and AI.<br />
 
-I've built many projects, but I've pinned four diverse ones below to keep my profile clean and simple.
+I've built many projects, but I've pinned six diverse ones below to keep my profile clean and simple.
