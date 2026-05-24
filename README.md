@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I'm Arthur, a programmer and graphic designer from Poland.
 
 About me:
@@ -11,4 +10,4 @@ About me:
 🤖 I'm keen on Machine Learning and AI. 
 
 I've built many projects, but I've pinned four different ones below to keep my profile clean and simple.
--->
+
